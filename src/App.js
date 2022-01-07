@@ -94,7 +94,7 @@ function App() {
     location: useRef(),
     category: useRef()
   }
-  const inputsFind ={ // inputai is MainPage
+  const inputsFind ={ // inputai is FindPage
     location: useRef(),
     category: useRef()
   }
